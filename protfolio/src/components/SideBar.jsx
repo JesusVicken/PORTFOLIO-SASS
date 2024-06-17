@@ -1,7 +1,7 @@
 import '../styles/components/sidebar.sass';
 import SocialNetworks from './SocialNetworks';
 import InformationContainer from './InformationContainer';
-import Avatar from '../img/3.jpeg'
+import Avatar from '../img/3.jpeg';
 
 const SideBar = () => {
   return (
@@ -10,11 +10,11 @@ const SideBar = () => {
       <p className="title">Fullstack Developer</p>
       <SocialNetworks />
       <InformationContainer />
-      <a href="" className="btn">
+      <a href="/JESUS_CV.pdf" download className="btn">
         Download Currículo
       </a>
     </aside>
   )
 }
 
-export default SideBar
+export default SideBar;

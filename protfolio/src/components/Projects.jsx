@@ -9,7 +9,7 @@ const Projects = () => {
                 Apesar dessa limitação, minha experiência inclui uma ampla gama de projetos focados na administração de Data Centers. Esses projetos envolvem a implementação e manutenção de infraestrutura crítica, gerenciamento de servidores e otimização de processos de TI para garantir eficiência e segurança no ambiente de Data Center.
                 Se precisar de mais informações ou exemplos específicos do meu trabalho, fico à disposição para discutir em mais detalhes, sempre respeitando as restrições de confidencialidade impostas pelo meu trabalho.
             </p>
-            <a href='#' className='btn'>
+            <a href='https://github.com/JesusVicken' target='_blank' rel='noopener noreferrer' className='btn'>
                 Ver Projetos
             </a>
         </section>
